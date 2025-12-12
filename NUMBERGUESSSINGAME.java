@@ -1,7 +1,7 @@
-import javax.swing.JOptionPane;
 import java.util.Random;
-public class Main
-{
+import javax.swing.JOptionPane;
+
+public class NUMBERGUESSSINGAME{
     public static void main(String[] args)
     {
         Random rand=new Random();
@@ -54,3 +54,4 @@ public class Main
 
     }
 }
+
