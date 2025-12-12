@@ -5,13 +5,13 @@ The computer randomly selects a number and your task is to guess it with the hin
 
 🚀 Features
 
-🔀 Random number generation
+    🔀 Random number generation
 
-⬆️ Hints whether your guess is too high or too low
+    ⬆️ Hints whether your guess is too high or too low
 
-🎯 Unlimited attempt mode
+    🎯 Unlimited attempt mode
 
-🧠 Simple console-based gameplay
+    🧠 Simple console-based gameplay
 
 📌 How the Game Works
 
@@ -27,50 +27,54 @@ The computer randomly selects a number and your task is to guess it with the hin
 
      “🎉 Correct Guess!”
 
-4️⃣ Continue until you find the right number!
+   4️⃣ Continue until you find the right number!
+
+
 
 
 🧪 Example Gameplay Output
 
-''' Enter your guess: 50 Too High!
+    Enter your guess: 50 Too High!
 
-Try again Enter your guess: 25 Too Low!
+    Try again Enter your guess: 25 Too Low!
 
-Try again Enter your guess: 30
+    Try again Enter your guess: 30
 
-🎉 Congratulations! You guessed the number! '''
+    🎉 Congratulations! You guessed the number! '''
 
 🛠 Tech Stack
 
-Tool	Description
+   Tool	Description
 
-☕ Java	Programming Language
-
-
-💻 VS Code / Any IDE	Code Editor
+    ☕ Java	Programming Language
 
 
-🧮 Math.random()	Number Generation
+    💻 VS Code / Any IDE	Code Editor
+
+
+    🧮 Math.random()	Number Generation
 
 
 
 📂 File Structure
 
-📁 Number Guessing Game 
-├── Main.java 
+    📁 Number Guessing Game 
+           ├── Main.java 
 
 👩‍💻 Author
 
-Monica
-B.Tech Information Technology
-Aspiring Software Developer 💫
+    Monica Deiveegan
+  
+    B.Tech Information Technology
+  
+    Aspiring Software Developer 💫
 
 🔗 GitHub Profile: https://github.com/monica0111
 
-💡 Future Enhancements
-✔ Limited number of attempts
-✔ Difficulty levels
-✔ Score board
+     💡 Future Enhancements
+     ✔ Limited number of attempts
+     ✔ Difficulty levels
+     ✔ Score board
 
 ⭐ If you like this project, give it a star on GitHub! ⭐
 
